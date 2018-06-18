@@ -9,3 +9,6 @@ The cake is a lie.
 ```shell
 echo "hello GLaDoS!"
 ```
+
+ﾏﾝﾒﾝﾐ
+
