@@ -12,3 +12,4 @@ echo "hello GLaDoS!"
 
 ﾏﾝﾒﾝﾐ
 
+ｵｯﾊﾟｯﾋﾟｰ
